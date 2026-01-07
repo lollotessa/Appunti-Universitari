@@ -42,7 +42,3 @@ Benvenuti nel mio repository personale. Qui sono raccolti gli appunti, le dispen
 
 ---
 
-## 📌 Note
-I file PDF sono caricati nelle rispettive cartelle. Gli appunti di **Fisica 2** sono stati revisionati e convertiti in formato digitale per una migliore consultazione.
-
-**Creato da: [LEGION]**
